@@ -6,7 +6,7 @@
 | 11.07. | 10:15 | 10:30 | 0.25    |            | 0.25       | Besprechung + Workspace Setup |
 | 16.07. | 12:15 | 12:30 | 0.25    |            | 0.50       | Vorbereitungen |
 | 17.07. | 15:15 | 16:45 | 1.5     |            | 2.00       | Recherche |
-
+| 17.07. | 20:00 | 21:00 | 1.00    |            | 3.00       | Troubleshooting und venv aufsetzen |
 
 
 
