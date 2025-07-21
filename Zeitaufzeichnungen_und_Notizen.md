@@ -7,6 +7,7 @@
 | 16.07. | 12:15 | 12:30 | 0.25    |            | 0.50       | Vorbereitungen |
 | 17.07. | 15:15 | 16:45 | 1.5     |            | 2.00       | Recherche |
 | 17.07. | 20:00 | 21:00 | 1.00    |            | 3.00       | Troubleshooting und venv aufsetzen |
+| 21.07. | 11:15 | 13:15 | 2.00    | 2.25       | 3.00       | Recherche (Vorrangig Architektur) |
 
 
 
