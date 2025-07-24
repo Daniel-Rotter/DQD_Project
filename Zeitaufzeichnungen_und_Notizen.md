@@ -8,6 +8,10 @@
 | 17.07. | 15:15 | 16:45 | 1.5     |            | 2.00       | Recherche |
 | 17.07. | 20:00 | 21:00 | 1.00    |            | 3.00       | Troubleshooting und venv aufsetzen |
 | 21.07. | 11:15 | 13:15 | 2.00    | 2.25       | 3.00       | Recherche (Vorrangig Architektur) |
+| 23.07. | 18:00 | 19:45 | 1.75    | 5.00       | 3.00       | Architektur beschreiben und venv Erstellen |
+| 24.07. | 11:30 | 13:30 | 2.00    | 7.00       | 3.00       | Vorbereitung des praktischen Teils (Datensatz, Strukturierung) |
+| 24.07. | 15:00 | 17:30 | 2.50    | 9.50       | 3.00       | Durchführung des praktischen Teils |
+| 24.07. | 18:00 | 19:00 | 1.00    | 10.50      | 3.00       | Praxisteil weiterführen und überarbeiten |
 
 
 
