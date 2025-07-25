@@ -12,11 +12,7 @@
 | 24.07. | 11:30 | 13:30 | 2.00    | 7.00       | 3.00       | Vorbereitung des praktischen Teils (Datensatz, Strukturierung) |
 | 24.07. | 15:00 | 17:30 | 2.50    | 9.50       | 3.00       | Durchführung des praktischen Teils |
 | 24.07. | 18:00 | 19:00 | 1.00    | 10.50      | 3.00       | Praxisteil weiterführen und überarbeiten |
-
-
-
-
-
+| 25.07. | 14:30 | 19:30 | 5.00    | 15.50      | 3.00       | Praxisteil weiterführen, PDF-Export, README-Datei |
 
 
 
@@ -27,6 +23,41 @@ Notizen:
 16.7. 12:15-12:30 Zeitaufzeichnungen dok anlegen, fixen von Quellen URLs
 
 17.7. 15:15-16:45 Recherche
+
+
+Daniel Manser - genaue Beschrebung der Tätigkeiten
+
+1. Freitag 11.07.2025: 
+	- 10:15 - 10:45
+		- Teammeeting mit Rotter Daniel: Besprechung der Vorgehensweise
+2. Montag 21.07.2025:
+	- 11:15 - 13:15
+		- Recherche (Vorrangig Architektur)
+3. Mittwoch 23.07.2025:
+	- 18:00 - 19:45
+		- Verfassen der Architektur und Erstellen einer venv
+4. Donnerstag 24.07.2025:
+	- 11:30 - 13:30 
+		- Vorbereitung des Praktischen Teils
+			- Auswahl Datensatz
+			- Strukturierung
+	15:00 - 17:30:
+		- 1. Durchführung des praktischen Teils:
+			- venv mit python Version 3.10.13 erstellen
+			- Datensatz laden
+			- Autoencoder erzeugen
+			- Modell trainieren
+			- Visualisieren
+	18:00 - 19:00:
+		- Praxisteil weiterführen
+5. Freitag 25.07.2025
+	- 14:30 - 19:30
+		- pdf-Export
+		- README Datei
+		- Verbesserung des praktischen Teils:
+			- Plot: Trainings- vs. Validierungsverlust
+			- Training in `history` speichern
+			- EarlyStopping hinzufügen
 
 Dataset:
 
