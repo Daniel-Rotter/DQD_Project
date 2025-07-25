@@ -2,5 +2,5 @@ tensorflow
 matplotlib
 numpy
 pillow
-numpy
-Notebook
+notebook
+jupyter
