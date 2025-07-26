@@ -13,6 +13,8 @@
 | 24.07. | 15:00 | 17:30 | 2.50    | 9.50       | 3.00       | Durchführung des praktischen Teils |
 | 24.07. | 18:00 | 19:00 | 1.00    | 10.50      | 3.00       | Praxisteil weiterführen und überarbeiten |
 | 25.07. | 14:30 | 19:30 | 5.00    | 15.50      | 3.00       | Praxisteil weiterführen, PDF-Export, README-Datei |
+| 25.07. | 11:00 | 14:00 | 3.00    | 18.50      | 3.00       | Praxisteil umgestalten und anpassen (Appendix usw.) |
+| 25.07. | 17:00 | 19:00 | 2.00    | 20.50      | 3.00       | Praxisteil verbessern (Kürzen, gestalten, etc.) + Appendix |
 
 
 
@@ -24,6 +26,7 @@ Notizen:
 
 17.7. 15:15-16:45 Recherche
 
+--- 
 
 Daniel Manser - genaue Beschrebung der Tätigkeiten
 
@@ -58,6 +61,17 @@ Daniel Manser - genaue Beschrebung der Tätigkeiten
 			- Plot: Trainings- vs. Validierungsverlust
 			- Training in `history` speichern
 			- EarlyStopping hinzufügen
+6. Samstag 26.07.2025
+	- 11:00 - 14:00
+		- Praxisteil umgestalten und anpassen:
+			- Grafiken verschönern
+			- Code in den Appendix verschieben
+			- Beschreibung der Schritte im Hauptteil
+	- 17:00 - 19:00
+		- Praxisteil verbessern
+			- Hauptteil verkürzen
+			- Visuelle Gestaltung verschönern
+			- Überflüssige Teile entfernen
 
 Dataset:
 
