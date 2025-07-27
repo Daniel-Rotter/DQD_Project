@@ -15,6 +15,9 @@
 | 25.07. | 14:30 | 19:30 | 5.00    | 15.50      | 3.00       | Praxisteil weiterführen, PDF-Export, README-Datei |
 | 25.07. | 11:00 | 14:00 | 3.00    | 18.50      | 3.00       | Praxisteil umgestalten und anpassen (Appendix usw.) |
 | 25.07. | 17:00 | 19:00 | 2.00    | 20.50      | 3.00       | Praxisteil verbessern (Kürzen, gestalten, etc.) + Appendix |
+| 27.07. | 10:00 | 12:30 | 2.5     | 20.50      | 5.50       | Executive Summary schreiben |
+| 27.07. | 14:30 | 20:00 | 5.5     | 20.50      | 11.0       | Exec. Sum, Überschr. updaten, nbconv config |
+
 
 
 
@@ -26,7 +29,14 @@ Notizen:
 
 17.7. 15:15-16:45 Recherche
 
---- 
+27.7.
+
+- 10:00-12:30 Executive Summary schreiben
+- 14:30-16:30 Executive Summary weiterschreiben und kürzen, Ubuntu VM setup für nbconvert
+- 17:30-19:30 Update Überschriften, spielen mit nbconvert um namen zu displayen
+- 20:00-21:30 metadaten bearbeiten, nbconvert befehl und environment fixen.
+
+---
 
 Daniel Manser - genaue Beschrebung der Tätigkeiten
 
