@@ -17,10 +17,9 @@
 | 25.07. | 17:00 | 19:00 | 2.00    | 20.50      | 3.00       | Praxisteil verbessern (Kürzen, gestalten, etc.) + Appendix |
 | 27.07. | 10:00 | 12:30 | 2.5     | 20.50      | 5.50       | Executive Summary schreiben |
 | 27.07. | 14:30 | 20:00 | 5.5     | 20.50      | 11.0       | Exec. Sum, Überschr. updaten, nbconv config |
-
-
-
-
+| 28.07. | 09:00 | 13:00 | 4.0     | 20.50      | 15.0       | Quellen mit jabref und zotero zu bib file machen |
+| 28.07. | 14:00 | 18:00 | 4.0     | 20.50      | 19.0       | Referenzen einfügen, mit nbconvert kämpfen |
+| 28.07. | 20:00 | 21:45 | 1.75    | 20.50      | 20.75      | Nummerierung anpassen, Dokument reihenfolge ändern, pdf export |
 
 
 Notizen:  
@@ -35,6 +34,12 @@ Notizen:
 - 14:30-16:30 Executive Summary weiterschreiben und kürzen, Ubuntu VM setup für nbconvert
 - 17:30-19:30 Update Überschriften, spielen mit nbconvert um namen zu displayen
 - 20:00-21:30 metadaten bearbeiten, nbconvert befehl und environment fixen.
+
+28.7.
+
+- 09:00-13:00 Quellen mit jabref und zotero zu bib file machen
+- 14:00-18:00 Referenzen einfügen, mit nbconvert kämpfen
+- 20:00-21:45 Nummerierung anpassen, Dokument reihenfolge ändern
 
 ---
 
