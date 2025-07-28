@@ -24,4 +24,12 @@ jupyter nbconvert DQD_Project_Manser_Rotter.ipynb \
 # mit Titel, Authoren und Datum
 jupyter nbconvert --to pdf --LatexPreprocessor.title="Image Inpainting mit CNNs am Beispiel CIFAR-10" --LatexPreprocessor.author_names="Daniel Manser und Daniel Rotter" --LatexPreprocessor.date="27.07.2025" DQD_Project_Manser_Rotter.ipynb --output-dir Exports/
 
+# mit Quellen (funktioniert nicht zuverlässig)
+jupyter nbconvert --to pdf \
+ --LatexPreprocessor.title="Image Inpainting mit CNNs am Beispiel CIFAR-10" \
+ --LatexPreprocessor.author_names="Daniel Manser und Daniel Rotter" \
+ --LatexPreprocessor.date="27.07.2025" \
+ --pandoc-args="--citeproc --bibliography=zotero_references.bib --csl=ieee.csl" \
+ DQD_Project_Manser_Rotter.ipynb \
+ --output-dir Exports/
 ```
